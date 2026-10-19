@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria: Physics Labyrinth of the Aeons",
+  "description": "A 3D first-person labyrinth survival game where solving procedurally generated celestial and fluid physics problems determines your cosmic Path alignment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
